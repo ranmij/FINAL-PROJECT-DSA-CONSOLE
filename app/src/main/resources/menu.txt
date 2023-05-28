@@ -1,0 +1,10 @@
++-----------------------------+
+|Options            |Ans      |
++-----------------------------+
+|SHOW LIST          |        1|
+|ADD NEW            |        2|
+|EDIT STUDENT       |        3|
+|SEARCH STUDENT     |        4|
+|DELETE STUDENT     |        5|
+|EXIT               |        6|
++-----------------------------+
